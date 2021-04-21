@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<p>This code is still not shipped in production</p>
+<p>This code is still not ready to beshipped in production</p>
 
 <h1>Admin Scale</h1>
 
