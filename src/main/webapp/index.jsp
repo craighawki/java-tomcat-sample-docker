@@ -40,6 +40,7 @@
 <li>Roblox</li>
 <li>Adobe</li>
 <li>Spin</li>
+<li>Roblox</li>
 
 Places to Apply:
 <a href="https://diversityjobs.com/jobsearch/display/726886096?utm_medium=export&utm_source=clickcastfulldesc25&utm_campaign=clickcastfulldesc25&utm_content=1&pk_campaign=export&pk_kwd=clickcastfulldesc25&ccuid=30488127997">NextGen</a>
@@ -90,6 +91,10 @@ Places to Apply:
         <li>Recruiter: Nikita Singh</li>
         <li>Recruiter: Ryan Winn</li>
         <li>Manager AEM(Adobe Experience Manager) Team: Bobby</li>
+        <li>AEM Technical Consultant Team: Russ Wright</li>
+        <li>AEM Technical Consultant Team: Brian Chaney</li>
+        <li>AEM Technical Consultant Team: Brett Meilson</li>
+        <li>AEM Technical Consultant Team: Andy Casper</li>
     </ul>
 
 <h3>Rivian Interview</h3>
@@ -100,6 +105,7 @@ Places to Apply:
     <li>Senior Director Platform Infrastructure: Dean Richan</li>
     <li>Recruiter: Drew Ozanne</li>
     <li>Senior Engineering Manager at Rivian: Jacob Cooper</li>
+    <li>The enginerring manager that did a short interview with me: Bill Turner</li>
 </ul>
 
 <h4>Rivian Interview Prep</h4>
@@ -109,6 +115,19 @@ Places to Apply:
         <li>Terraform</li>
         <li>AWS</li>
     </ul>
+
+<h3>Roblox</h3>
+
+<h4>Roblox Position</h4>
+
+<li>Site Reliability Engineer</li>
+
+<h4>Roblox Contacts</h4>
+<ul>
+    <li>Kristina Teasley</li>
+</ul>
+
+<h4>Roblox Interview Prep</h4>
 
 <h3>Restudy Each of the Ethics Conditions from Non-Existence Up</h3>
 
